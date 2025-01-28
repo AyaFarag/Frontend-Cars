@@ -1,0 +1,19 @@
+
+
+
+ span {
+    color:#ffcd03 ;
+}
+/* id */
+#head1 , a , .head2 {
+    color: green;
+}
+
+/* class name */
+.linkColor , .name , .email {
+    color:chartreuse;
+}
+
+* {
+
+}
